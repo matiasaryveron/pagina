@@ -7,7 +7,7 @@ import Comentarios from './components/Comentarios/Comentarios';
 import Marcas from './components/Marcas/Marcas';
 import Contactos from './components/Contactos/Contactos';
 import Footer from './components/Footer/Footer';
-import FloatingButtons from './components/FloatingButtons/FloatingButtons'; // Asegúrate de que la ruta es correcta
+import FloatingButtons from './components/FloatingButtons/FloatingButtons'; 
 
 function App() {
   return (

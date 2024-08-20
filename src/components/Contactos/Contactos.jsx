@@ -41,7 +41,7 @@ function Contactos() {
                         </div>
                         <div className="flex space-x-20 justify-center">
                             <div className="flex flex-col items-center">
-                                <a href="https://wa.me/5491133704016" className="flex flex-col items-center">
+                                <a href="https://wa.me/5491132167178" className="flex flex-col items-center">
                                     <FaWhatsapp className='text-5xl text-primary hover:bg-primary/80 hover:rounded duration-300' />
                                     <p className='text-center'>WhatsApp:</p>
                                     <p className='text-center'>+54 9 11 3370-4016</p>

@@ -15,7 +15,7 @@ function Somos() {
                 Quienes Somos
               </h1>
               <p data-aos="fade-up">
-                Delivery Repuestos es una empresa fundada desde 2022, ubicada en Del Biso, Pilar, Buenos Aires. Nos especializamos en ofrecer una amplia gama de productos para vehículos y contamos con un eficiente servicio de delivery.
+                Delivery Repuestos es una empresa fundada desde 2022, ubicada en Del Viso, Pilar, Buenos Aires. Nos especializamos en ofrecer una amplia gama de productos para vehículos y contamos con un eficiente servicio de delivery.
               </p>
               <p data-aos="fade-up">
                 Nuestros repuestos se entregan tanto directamente al comprador como al taller donde se encuentra el auto, asegurando así rapidez y comodidad. En Delivery Repuestos, estamos comprometidos con brindar soluciones de calidad para tus necesidades automotrices.
