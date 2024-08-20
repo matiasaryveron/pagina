@@ -54,7 +54,9 @@ function Comentarios () {
                     className="rounded-full w-20 h-20"
                 />
                 </div>
-                <div className="flex justify-center items-center space-x-2 text-yellow-500 text-2xl"><GoTools /><GoTools /><GoTools /><GoTools /><GoTools /></div>
+                <div className="flex justify-center items-center space-x-2 text-yellow-500 text-2xl">
+                    <p>⭐⭐⭐⭐⭐</p>
+                </div>
                 <p>{skill.description}</p>
                 <p className="text-center font-semibold">{skill.name}</p>
             </div>
