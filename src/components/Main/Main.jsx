@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import lg from '../../assets/lg.png'
 import AOS from 'aos'
 import "aos/dist/aos.css"
+import { Link } from 'react-scroll'; 
 
 function Main() {
 
@@ -27,8 +28,10 @@ return (
                     className=' text-primary text-2xl font-serif'>Bienvenidos a</p>
                     <h1 data-aos="fade-up" data-aos-delay="600" className='text-5xl font-semibold lg:text-7xl font font-serif mb-4'>Delivery Repuestos</h1>
                     <p data-aos="fade-up" data-aos-delay="1000" className='flex space-x-4'> Servicio puerta a puerta del repuesto o accesorio que estabas buscando. Cotizaciones en el acto y entregas inmediatas. </p>
+                    <Link to="Contact" smooth={true} duration={500} >
                     <button data-aos="fade-up"
                     data-aos-duration="1500" data-aos-delay="600" className='btn bg-primary text-black px-6 py-2 rounded-md hover:bg-primary/80 duration-300 mt-4'> Contactos</button>
+                    </Link>
                 </div>
             </div>
         </div>

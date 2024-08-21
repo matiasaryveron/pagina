@@ -10,7 +10,7 @@ return (
         <span className="text-sm md:text-base">+54 9 11 3216-7178 / +54 9 11 3370-4016</span>
     </div>
     <hr className="w-full border-gray-600 mb-2" />
-    <p className="text-xs md:text-sm">Buenos Aires, Argentina</p>
+    <p className="text-xs md:text-sm">&copy; Buenos Aires, Argentina {new Date().getFullYear()} - Delivery Repuestos</p>
     </footer>
 );
 }
