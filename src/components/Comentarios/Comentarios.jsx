@@ -4,19 +4,19 @@ const testimonialData = [
     {
         name: "Norberto Felix Pampin",
         image: "https://lh3.googleusercontent.com/a/ACg8ocK2-Suk1gaFavNReDhSp-wBvWde531swWRNhPC-Nh0YC5eOMQ=w60-h60-p-rp-mo-ba4-br100",
-        description: "Muy completo. Excelente atención. El envío a domicilio muy valorado",
+        description: "Muy completo. Excelente atención. El envío a domicilio muy valorado.",
         aosDelay: "0",
     },
     {
         name: "Emmanuel Martin",
         image: "https://lh3.googleusercontent.com/a-/ALV-UjXOsAZAsrHYCiEkSKG6RQuFYZ3_Wjl47lDcXMi8iHB_1wgXZhRV=w60-h60-p-rp-mo-br100",
-        description: "Exelente atención y variedad de repuestos originales de multimarca",
+        description: "Exelente atención y variedad de repuestos originales de multimarca.",
         aosDelay: "300",
     },
     {
         name: "Cesar Lambrisca",
         image: "https://lh3.googleusercontent.com/a/ACg8ocKhWoJAoqw_jwzSS-5Rg_STu_E4t4Y7xsmYVcEOZOMfhfurNQ=w36-h36-p-rp-mo-br100",
-        description: "Excelente atención y buenos precios",
+        description: "Excelente atención, buenos precios y variedad de marcas.",
         aosDelay: "1000",
     },
 ];
