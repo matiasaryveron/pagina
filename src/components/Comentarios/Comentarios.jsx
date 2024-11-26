@@ -14,9 +14,9 @@ const testimonialData = [
         aosDelay: "300",
     },
     {
-        name: "Eduardo Gustavo Herrera",
-        image: "https://lh3.googleusercontent.com/a-/ALV-UjUkRMjCTuyIRh00BB4rilziUxEFglm8zobFz1wQj8YMNXWIK7U1=w60-h60-p-rp-mo-ba3-br100",
-        description: "Excelente!!!!, buena atención!!! Buena predisposición!!!!!",
+        name: "Cesar Lambrisca",
+        image: "https://lh3.googleusercontent.com/a/ACg8ocKhWoJAoqw_jwzSS-5Rg_STu_E4t4Y7xsmYVcEOZOMfhfurNQ=w36-h36-p-rp-mo-br100",
+        description: "Excelente atención y buenos precios",
         aosDelay: "1000",
     },
 ];
